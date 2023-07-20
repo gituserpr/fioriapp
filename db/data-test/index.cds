@@ -1,0 +1,1 @@
+namespace fioriapp.db;
