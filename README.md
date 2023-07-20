@@ -1,2 +1,2 @@
 # fioriapp - App
-> My Business Application
+> Me Business Application
